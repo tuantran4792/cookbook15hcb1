@@ -1,0 +1,74 @@
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Web Service.dll.config
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Web Service.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Web Service.pdb
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Newtonsoft.Json.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Net.Http.Formatting.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Cors.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Helpers.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Cors.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Tracing.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.WebHost.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Mvc.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Razor.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.pdb
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\Newtonsoft.Json.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Net.Http.Formatting.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Helpers.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Cors.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.Tracing.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Http.WebHost.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Mvc.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.Razor.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.dll
+C:\Users\TUANTRAN\Google Drive\HK4\KCPM\BTN\FinalExam\KCPM - Do an\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
+D:\Learn\Cookbook\API\Web Service\bin\Web Service.dll.config
+D:\Learn\Cookbook\API\Web Service\bin\Web Service.dll
+D:\Learn\Cookbook\API\Web Service\bin\Web Service.pdb
+D:\Learn\Cookbook\API\Web Service\bin\EntityFramework.dll
+D:\Learn\Cookbook\API\Web Service\bin\HtmlAgilityPack.dll
+D:\Learn\Cookbook\API\Web Service\bin\Microsoft.Web.Infrastructure.dll
+D:\Learn\Cookbook\API\Web Service\bin\Newtonsoft.Json.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Net.Http.Formatting.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Cors.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Helpers.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Http.Cors.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Http.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Http.Tracing.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Http.WebHost.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Mvc.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Razor.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.WebPages.Deployment.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.WebPages.dll
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.WebPages.Razor.dll
+D:\Learn\Cookbook\API\Web Service\bin\EntityFramework.xml
+D:\Learn\Cookbook\API\Web Service\bin\HtmlAgilityPack.pdb
+D:\Learn\Cookbook\API\Web Service\bin\HtmlAgilityPack.xml
+D:\Learn\Cookbook\API\Web Service\bin\Newtonsoft.Json.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Net.Http.Formatting.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Helpers.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Http.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Http.Cors.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Http.Tracing.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Http.WebHost.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Mvc.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.Razor.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.WebPages.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.WebPages.Deployment.xml
+D:\Learn\Cookbook\API\Web Service\bin\System.Web.WebPages.Razor.xml
+D:\Learn\Cookbook\API\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+D:\Learn\Cookbook\API\Web Service\obj\Debug\Web Service.dll
+D:\Learn\Cookbook\API\Web Service\obj\Debug\Web Service.pdb
